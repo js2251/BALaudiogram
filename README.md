@@ -1,2 +1,2 @@
 # BALaudiogram
-transferred to github.com/cambridge-mlg/BALaudiogram
+transferred to https://github.com/cambridge-mlg/BALaudiogram
